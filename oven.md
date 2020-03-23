@@ -1,6 +1,7 @@
 Item | Temperature .C | Temperature .F  | Time | Note
 ---|---|---|---|---
 Chicken Thigh | 190 | 375 | 45 min | 
+Chicken Thigh | 190 | 425 | 35 min | 
 Chicken Wing | 190 | 375 | 45 min |
 
 
